@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This repository contains the Hello World program in a considerable amount of different languages.
+This repository contains the Hello World program in a considerable amount of different programming languages.
 
 ## Languages
 
