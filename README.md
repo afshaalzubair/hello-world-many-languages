@@ -1,8 +1,8 @@
-# Hello World in () Languages
+# Hello World in 31 Programming Languages
 
 ## Purpose
 
-This repository contains the Hello World program in 30 different programming languages, all of which can be found below.
+This repository contains the Hello World program in 31 different programming languages, all of which can be found below.
 
 ## Languages
 
